@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QLquanCafe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QLquanCafe.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\css\\Table.css",
+      "PackagePath": "staticwebassets\\css\\Table.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\css\\indexproduct.css",
+      "PackagePath": "staticwebassets\\css\\indexproduct.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\6d4448c6-76de-4aa9-8051-69d6100fb644.png",
+      "PackagePath": "staticwebassets\\images\\6d4448c6-76de-4aa9-8051-69d6100fb644.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-09-01 091310.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-09-01 091310.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-09-01 091328.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-09-01 091328.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-09-10 183528.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-09-10 183528.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-09-11 174232.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-09-11 174232.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-01 195731.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 195731.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-01 201010.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 201010.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-01 202157.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 202157.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-01 202233.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 202233.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-01 202455.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 202455.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-01 210212.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 210212.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-02 103041.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-02 103041.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-04 163053.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-04 163053.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-04 164612.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-04 164612.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-14 121105.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-14 121105.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\Screenshot 2024-11-28 152536.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-28 152536.png"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\js.jpg",
+      "PackagePath": "staticwebassets\\images\\js.jpg"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\phận.jpg",
+      "PackagePath": "staticwebassets\\images\\phận.jpg"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\planet9_Wallpaper_5000x2813.jpg",
+      "PackagePath": "staticwebassets\\images\\planet9_Wallpaper_5000x2813.jpg"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\z5427736475691_28b7b130d63be4e1c3aa1a3195c97dcd.jpg",
+      "PackagePath": "staticwebassets\\images\\z5427736475691_28b7b130d63be4e1c3aa1a3195c97dcd.jpg"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\z5678643732077_f384df1365caffd98790220096a221ba.jpg",
+      "PackagePath": "staticwebassets\\images\\z5678643732077_f384df1365caffd98790220096a221ba.jpg"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\images\\z5982313142407_8f0688b6d03bba761975ed351eb38661.jpg",
+      "PackagePath": "staticwebassets\\images\\z5982313142407_8f0688b6d03bba761975ed351eb38661.jpg"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\uploads\\z5427736475691_28b7b130d63be4e1c3aa1a3195c97dcd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z5427736475691_28b7b130d63be4e1c3aa1a3195c97dcd.jpg"
+    },
+    {
+      "Id": "D:\\Project-Dotnet\\QLquanCafe\\wwwroot\\uploads\\z5982313142407_8f0688b6d03bba761975ed351eb38661.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z5982313142407_8f0688b6d03bba761975ed351eb38661.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QLquanCafe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QLquanCafe.props",
+      "PackagePath": "build\\QLquanCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QLquanCafe.props",
+      "PackagePath": "buildMultiTargeting\\QLquanCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QLquanCafe.props",
+      "PackagePath": "buildTransitive\\QLquanCafe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

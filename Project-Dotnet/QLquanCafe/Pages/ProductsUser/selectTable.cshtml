@@ -1,0 +1,21 @@
+﻿@page "{id:int}"
+@model QLquanCafe.Pages.ProductsUser.SelectTableModel
+@{
+    ViewData["Title"] = "Select Table";
+}
+
+<h1>Select Table</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="TableId">Choose a table:</label>
+        <select id="TableId" name="TableId" class="form-control" required>
+            @foreach (var table in Model.Tables)
+            {
+                <option value="@table.TableId">@table.TableName</option>
+            }
+        </select>
+    </div>
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-primary">Complete Order</button>
+</form>

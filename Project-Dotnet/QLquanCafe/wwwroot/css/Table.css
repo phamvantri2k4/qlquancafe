@@ -1,0 +1,57 @@
+﻿/* Container for the grid */
+.table-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columns */
+    gap: 20px; /* Adjust the gap between the cards as needed */
+    padding: 20px; /* Add some padding around the grid */
+}
+
+/* Styling for each table card */
+.table-card {
+    background-color: #f8f9fa; /* Light grey background */
+    border: 1px solid #dee2e6; /* Light border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 20px; /* Padding inside each card */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    text-align: center; /* Center text inside the card */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+}
+
+    /* Heading for each table card */
+    .table-card h2 {
+        margin-top: 0; /* Remove default margin from top */
+        font-size: 1.5em; /* Adjust font size as needed */
+    }
+
+    /* Paragraph inside each table card */
+    .table-card p {
+        font-size: 1em; /* Adjust font size as needed */
+        margin: 10px 0; /* Margin around the paragraph */
+    }
+
+/* Container for the action buttons */
+.table-actions {
+    margin-top: 10px; /* Margin above the action buttons */
+    display: flex;
+    justify-content: center; /* Center the buttons horizontally */
+}
+
+    /* Styling for the action buttons */
+    .table-actions .btn {
+        margin: 5px; /* Margin around each button */
+        border-radius: 5px; /* Rounded corners for buttons */
+        transition: background-color 0.3s ease, color 0.3s ease; /* Transition effects for color changes */
+    }
+
+    .table-actions .btn-primary:hover {
+        background-color: #0056b3; /* Background color on hover */
+        color: #ffffff; /* Text color on hover */
+    }
+
+    .table-actions .btn-danger:hover {
+        background-color: #dc3545; /* Background color on hover */
+        color: #ffffff; /* Text color on hover */
+    }

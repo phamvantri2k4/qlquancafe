@@ -1,0 +1,29 @@
+﻿@page
+@model QLquanCafe.Pages.Tables.CreateModel
+@{
+    ViewData["Title"] = "Create Table";
+}
+
+<h1>Create Table</h1>
+
+<h4>Table</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="Table.TableName" class="control-label"></label>
+                <input asp-for="Table.TableName" class="form-control" />
+                <span asp-validation-for="Table.TableName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Table.Status" class="control-label"></label>
+                <input asp-for="Table.Status" class="form-control" />
+                <span asp-validation-for="Table.Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

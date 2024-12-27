@@ -1,0 +1,50 @@
+﻿@page
+@model QLquanCafe.Pages.SearchModel
+@{
+    ViewData["Title"] = "Search Products";
+}
+
+<h1>Search Products</h1>
+
+<form method="get">
+    <label for="category">Select Category:</label>
+    <select id="category" name="searchCategory">
+        <option value="">-- All Categories --</option>
+        @foreach (var category in Model.Categories)
+        {
+            if (Model.SearchCategory == category.Name)
+            {
+                <option value="@category.Name" selected="selected">
+                    @category.Name
+                </option>
+            }
+            else
+            {
+                <option value="@category.Name">
+                    @category.Name
+                </option>
+            }
+        }
+
+    </select>
+    <button type="submit">Search</button>
+</form>
+
+<h2>Product List</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Category.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

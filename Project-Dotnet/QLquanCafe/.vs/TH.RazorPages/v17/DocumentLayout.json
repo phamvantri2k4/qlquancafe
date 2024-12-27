@@ -1,0 +1,1013 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project-Dotnet\\QLquanCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219081315_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219080217_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219075004_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219073849_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219073453_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219072854_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219072551_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Categorys.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Category.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\data\\dbcontect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:data\\dbcontect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\migrations\\20241219081411_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:migrations\\20241219081411_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\models\\imgproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:models\\imgproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\categoriess\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\categoriess\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\categoriess\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\categoriess\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\categoriess\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\categoriess\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\categoriess\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\categoriess\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\categoriess\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\categoriess\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\categoriess\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\categoriess\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\categoriess\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\categoriess\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\categoriess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\categoriess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\categoriess\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\categoriess\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\categoriess\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\categoriess\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\shared\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\shared\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\shared\\_message.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\shared\\_message.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\shared\\_productitem.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\shared\\_productitem.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\shared\\_productitemdetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\shared\\_productitemdetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\components\\productbox\\productbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\components\\productbox\\productbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\search.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\search.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\editproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\editproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|d:\\project-dotnet\\qlquancafe\\pages\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|QLquanCafe.csproj|solutionrelative:pages\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:51:41.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wCQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:45:28.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:54:35.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductServices.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Services\\ProductServices.cs",
+              "RelativeToolTip": "Services\\ProductServices.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:19:27.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:56:25.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbContect.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Data\\DbContect.cs",
+              "RelativeDocumentMoniker": "Data\\DbContect.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Data\\DbContect.cs",
+              "RelativeToolTip": "Data\\DbContect.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:38:24.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:01:17.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:59:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T12:37:47.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241219081411_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Migrations\\20241219081411_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241219081411_InitialCreate.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Migrations\\20241219081411_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241219081411_InitialCreate.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAswLAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:14:11.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:45:24.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:42:21.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "Models\\Table.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Models\\Table.cs",
+              "RelativeToolTip": "Models\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:14:51.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241219081315_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219081315_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219081315_InitialCreate.cs",
+              "ToolTip": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219081315_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219081315_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:13:15.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241219080217_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219080217_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219080217_InitialCreate.cs",
+              "ToolTip": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219080217_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219080217_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:02:17.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:07:39.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Details.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:55:21.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:04:56.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Details.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Details.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:58:53.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:12:31.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:30:02.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ImgProduct.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Models\\ImgProduct.cs",
+              "RelativeDocumentMoniker": "Models\\ImgProduct.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Models\\ImgProduct.cs",
+              "RelativeToolTip": "Models\\ImgProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:16:37.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetails.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:22:09.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:16:47.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241219075004_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219075004_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219075004_InitialCreate.cs",
+              "ToolTip": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219075004_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219075004_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:50:04.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241219073849_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219073849_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219073849_InitialCreate.cs",
+              "ToolTip": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219073849_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219073849_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:38:50Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241219073453_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219073453_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219073453_InitialCreate.cs",
+              "ToolTip": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219073453_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219073453_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:34:53.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241219072854_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219072854_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219072854_InitialCreate.cs",
+              "ToolTip": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219072854_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219072854_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:28:54.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241219072551_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219072551_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219072551_InitialCreate.cs",
+              "ToolTip": "D:\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219072551_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\Th Dotnet\\TH.RazorPages\\Migrations\\20241219072551_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:25:51.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:36:09.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:35:34.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Delete.cshtml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:57:48.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categoriess\\Index.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categoriess\\Index.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:24:51.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categoriess\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categoriess\\Edit.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:22:51.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categoriess\\Details.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categoriess\\Details.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:21:59.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:54:12.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categoriess\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categoriess\\Delete.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:20:47.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categoriess\\Create.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Categoriess\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:13:59.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categoriess\\Create.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categoriess\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:17:25.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAkwG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:55:48.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:53:58.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categoriess\\Edit.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Categoriess\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:15:25.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:54:58.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Search.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Search.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Search.cshtml",
+              "RelativeToolTip": "Pages\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T13:05:42.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categoriess\\Index.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Categoriess\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:15:39.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categoriess\\Details.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Categoriess\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:15:10.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categoriess\\Delete.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Categoriess\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Categoriess\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAIBJwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:14:56.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_Message.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_Message.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Message.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_Message.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Message.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:37:30.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_Message.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_Message.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Message.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_Message.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\_Message.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:52:46.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ProductItem.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_ProductItem.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ProductItem.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_ProductItem.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\_ProductItem.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:53:01.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:53:05.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ProductItemDetail.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_ProductItemDetail.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ProductItemDetail.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Shared\\_ProductItemDetail.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\_ProductItemDetail.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:53:04.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "Pages\\EditProduct.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\EditProduct.cshtml",
+              "RelativeToolTip": "Pages\\EditProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:37:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductBox.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Components\\ProductBox\\ProductBox.cs",
+              "RelativeDocumentMoniker": "Pages\\Components\\ProductBox\\ProductBox.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Components\\ProductBox\\ProductBox.cs",
+              "RelativeToolTip": "Pages\\Components\\ProductBox\\ProductBox.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:41:52.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Search.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Search.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Search.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\Search.cshtml.cs",
+              "RelativeToolTip": "Pages\\Search.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:05:53.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EditProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\EditProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditProduct.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\EditProduct.cshtml.cs",
+              "RelativeToolTip": "Pages\\EditProduct.cshtml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwFEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:38:02.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AddProduct.cshtml",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\AddProduct.cshtml",
+              "RelativeToolTip": "Pages\\AddProduct.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T12:38:42.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AddProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\AddProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddProduct.cshtml.cs",
+              "ToolTip": "D:\\Project-Dotnet\\QLquanCafe\\Pages\\AddProduct.cshtml.cs",
+              "RelativeToolTip": "Pages\\AddProduct.cshtml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:50:03.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-06T13:57:38.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Categorys.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Categorys.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Categorys.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-06T13:57:34.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-06T13:57:43.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Category.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Category.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/QLBanHang/True/SqlTable/dbo.Category.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-05T12:59:29.578Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

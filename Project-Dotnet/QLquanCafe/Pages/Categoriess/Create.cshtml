@@ -1,0 +1,52 @@
+﻿@page
+@model QLquanCafe.Pages.Categoriess.CreateModel
+@{
+    ViewData["Title"] = "Create Category";
+}
+
+<h1 class="text-center mb-4">Create New Category</h1>
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white text-center">
+                    <h4 class="mb-0">Category Details</h4>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <!-- Category Name -->
+                        <div class="mb-3">
+                            <label asp-for="Category.Name" class="form-label">Name</label>
+                            <input asp-for="Category.Name" class="form-control" placeholder="Enter category name" />
+                            <span asp-validation-for="Category.Name" class="text-danger"></span>
+                        </div>
+
+                        <!-- Category Description -->
+                        <div class="mb-3">
+                            <label asp-for="Category.Description" class="form-label">Description</label>
+                            <textarea asp-for="Category.Description" class="form-control" rows="4" placeholder="Enter category description"></textarea>
+                            <span asp-validation-for="Category.Description" class="text-danger"></span>
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div>
+                            <button type="submit" class="btn btn-primary">Create Category</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Back Button -->
+            <div class="mt-3 text-center">
+                <a asp-page="Index" class="btn btn-primary">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

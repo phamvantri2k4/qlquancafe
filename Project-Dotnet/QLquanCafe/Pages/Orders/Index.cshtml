@@ -1,0 +1,27 @@
+﻿@page
+@model QLquanCafe.Pages.Orders.IndexModel
+@{
+    ViewData["Title"] = "Order List";
+}
+
+<h1>Order List</h1>
+
+@if (Model.Orders != null && Model.Orders.Count > 0)
+{
+    <div class="order-grid">
+        @foreach (var order in Model.Orders)
+        {
+            <div class="order-card">
+                <h2>Order ID: @order.OrdersId</h2>
+                <p>Table: @order.Table.TableName</p>
+                <p>Order Date: @order.OrderDate.ToString("g")</p>
+                <p>Total Amount: @order.TotalAmount.ToString("C")</p>
+                <p>Status: @(order.Status ? "Completed" : "Pending")</p>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No orders found.</p>
+}

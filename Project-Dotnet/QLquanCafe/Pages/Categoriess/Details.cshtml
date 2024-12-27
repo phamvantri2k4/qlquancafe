@@ -1,0 +1,39 @@
+﻿@page
+@model QLquanCafe.Pages.Categoriess.DetailsModel
+@{
+    ViewData["Title"] = "Category Details";
+}
+
+<h1 class="text-center mb-4">Category Details</h1>
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white text-center">
+                    <h4 class="mb-0">Category Information</h4>
+                </div>
+                <div class="card-body">
+                    <!-- Category Details -->
+                    <div class="mb-4">
+                        <h5 class="fw-bold text-center mb-3">Details</h5>
+                        <hr />
+                        <dl class="row">
+                            <dt class="col-sm-4">Name:</dt>
+                            <dd class="col-sm-8">@Html.DisplayFor(model => model.Category.Name)</dd>
+
+                            <dt class="col-sm-4">Description:</dt>
+                            <dd class="col-sm-8">@Html.DisplayFor(model => model.Category.Description)</dd>
+                        </dl>
+                    </div>
+
+                    <!-- Action Buttons -->
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <a asp-page="./Edit" asp-route-id="@Model.Category.Id" class="btn btn-primary">Edit</a>
+                        <a asp-page="./Index" class="btn btn-primary">Back to List</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

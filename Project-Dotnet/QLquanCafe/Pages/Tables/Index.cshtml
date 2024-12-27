@@ -1,0 +1,37 @@
+﻿@page
+@model QLquanCafe.Pages.Tables.IndexModel
+@{
+    ViewData["Title"] = "Tables";
+
+}
+<head>
+    <link rel="stylesheet" href="~/css/Table.css" />
+</head>
+
+
+<h1>Tables</h1>
+
+<a asp-page="Create" class="btn btn-primary">Create New Table</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Table Name</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Tables)
+        {
+            <tr>
+                <td>@item.TableName</td>
+                <td>@item.Status</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@item.TableId" class="btn btn-primary">Edit</a>
+                    <a asp-page="Delete" asp-route-id="@item.TableId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

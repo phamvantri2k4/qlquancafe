@@ -1,0 +1,61 @@
+﻿@page
+@model QLquanCafe.Pages.ProductsUser.IndexModel
+@{
+    ViewData["Title"] = "Products";
+}
+
+<!-- Liên kết tới file CSS -->
+<link rel="stylesheet" href="~/css/indexproduct.css" />
+
+<h1>Product List</h1>
+
+<form method="get" class="form-inline mb-3">
+    <div class="input-group">
+        <input type="text" name="SearchString" placeholder="Search products..." value="@Model.SearchString" class="form-control" />
+        <div class="input-group-append">
+            <input type="submit" value="Search" class="btn btn-primary" />
+        </div>
+    </div>
+</form>
+
+<!-- Menu danh mục sản phẩm -->
+<nav class="category-menu">
+    <a href="?CategoryId=" class="category-menu-item">Tất cả</a>
+    @if (ViewData["Categories"] is List<QLquanCafe.Models.Category> categories)
+    {
+        @foreach (var category in categories)
+        {
+            <a href="?CategoryId=@category.Id" class="category-menu-item">@category.Name</a>
+        }
+    }
+</nav>
+
+@if (Model.Products != null && Model.Products.Count > 0)
+{
+    <div class="product-grid">
+        @foreach (var item in Model.Products)
+        {
+            <div class="product-card">
+                @if (item.ImgProducts != null && item.ImgProducts.Count > 0)
+                {
+                    <img src="@item.ImgProducts.First().Path" alt="Product Image" class="product-image" />
+                }
+                else
+                {
+                    <img src="path/to/default-image.jpg" alt="No Image" class="product-image" />
+                }
+                <h2>@item.Name</h2>
+                <p>@item.Description</p>
+                <p>@item.Price.ToString("C")</p>
+                <p>@item.Category.Name</p>
+                <div class="product-actions">
+                    <a asp-page="./selectTable" asp-route-id="@item.Id" class="btn btn-primary">Order</a>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No products found.</p>
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QLquanCafe.props" />
+</Project>

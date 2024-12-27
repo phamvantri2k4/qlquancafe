@@ -1,0 +1,79 @@
+﻿
+/* CSS cho menu danh mục sản phẩm */
+.category-menu {
+    display: flex;
+    justify-content: center; /* Đặt các mục nằm giữa theo chiều ngang */
+    align-items: center; /* Đặt các mục nằm giữa theo chiều dọc */
+    list-style-type: none;
+    padding: 10px 0;
+    margin: 20px 0;
+    width: 100%; /* Đảm bảo thanh menu chiếm toàn bộ chiều rộng */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Hiệu ứng đổ bóng */
+    border-radius: 8px; /* Bo góc menu */
+
+}
+
+.category-menu-item {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #ffffff; /* Màu chữ */
+    margin: 0 10px;
+    background-color: #007bff; /* Màu nền của mục */
+    border-radius: 5px; /* Bo góc mục */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Hiệu ứng chuyển đổi màu sắc */
+}
+
+    .category-menu-item:hover {
+        background-color: #0056b3; /* Màu nền khi hover */
+        color: #ffffff; /* Màu chữ khi hover */
+    }
+
+/* CSS cho layout sản phẩm */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Chia mỗi hàng thành 4 cột có kích thước bằng nhau */
+    gap: 20px; /* Khoảng cách giữa các ô */
+}
+
+.product-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    text-align: center;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Đặt nội dung nằm giữa theo chiều dọc */
+    align-items: center; /* Đặt nội dung nằm giữa theo chiều ngang */
+    border-radius: 8px; /* Bo góc ô sản phẩm */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Hiệu ứng đổ bóng */
+}
+
+.product-image {
+    width: 150px; /* Chiều rộng cố định */
+    height: 150px; /* Chiều cao cố định */
+    object-fit: cover; /* Giữ tỉ lệ hình ảnh */
+    border-radius: 8px; /* Bo góc hình ảnh */
+}
+
+.product-actions {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center; /* Căn giữa các nút */
+}
+
+    .product-actions .btn {
+        margin-right: 5px;
+        border-radius: 5px; /* Bo góc nút */
+        transition: background-color 0.3s ease; /* Hiệu ứng chuyển đổi màu sắc */
+    }
+
+        .product-actions .btn:hover {
+            background-color: #0056b3; /* Màu nền khi hover */
+            color: #ffffff; /* Màu chữ khi hover */
+        }
+
+/* CSS tùy chỉnh cho khoảng cách giữa ô tìm kiếm và nút tìm kiếm */
+.input-group .form-control {
+    margin-right: 10px; /* Khoảng cách giữa ô tìm kiếm và nút tìm kiếm */
+}

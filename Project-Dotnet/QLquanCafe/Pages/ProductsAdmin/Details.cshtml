@@ -1,0 +1,23 @@
+﻿@page
+@model QLquanCafe.Pages.ProductsAdmin.DetailsModel
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h1>Product Details</h1>
+
+<p>Product Name: @Html.DisplayFor(model => model.Product.Name)</p>
+<p>Description: @Html.DisplayFor(model => model.Product.Description)</p>
+<p>Price: @Html.DisplayFor(model => model.Product.Price)</p>
+<p>Category: @Html.DisplayFor(model => model.Product.Category.Name)</p>
+
+<h3>Images</h3>
+<div>
+    @foreach (var img in Model.Product.ImgProducts)
+    {
+        <img src="@img.Path" alt="Product Image" class="img-thumbnail" style="max-height: 100px;" />
+    }
+</div>
+
+<a asp-page="./Edit" asp-route-id="@Model.Product.Id" class="btn btn-primary">Edit</a>
+<a asp-page="./Index" class="btn btn-primary">Back to List</a>

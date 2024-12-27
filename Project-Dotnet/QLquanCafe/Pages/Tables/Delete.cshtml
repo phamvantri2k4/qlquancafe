@@ -1,0 +1,27 @@
+﻿@page
+@model QLquanCafe.Pages.Tables.DeleteModel
+@{
+    ViewData["Title"] = "Delete Table";
+}
+
+<h1>Delete Table</h1>
+
+<h4>Table</h4>
+<hr />
+<div>
+    <h4>@Model.Table.TableName</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Status
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Table.Status
+        </dd>
+    </dl>
+
+    <form method="post">
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+    </form>
+</div>
